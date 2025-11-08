@@ -1,0 +1,1 @@
+return <h2>Timer: {seconds} seconds</h2>;
